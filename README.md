@@ -30,6 +30,7 @@ Thompson’s construction algorithm is a way to transform regular expression int
 Question 3 Explain what is meant by the term irregular language in the context of regular expressions.
 “Definition: A language that cannot be defined by a regular expression is a nonregular language or an irregular language.”
 
+Nonregular languages or irregular languages are problems that can’t be solved with a finite memory, there are two theory that involve nonregular languages and regular expressions which is Pumping lemma and Myhill–Nerode theorem
 
 
 
@@ -37,11 +38,10 @@ Question 3 Explain what is meant by the term irregular language in the context o
 References
 
 Question 1
-(Quoted First line)
+Read everything (Quoted First line)
 1 https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference
 
 Question 3
-Seccond Slide
 2 https://sites.cs.ucsb.edu/~cappello/136/lectures/10nonregularlanguages/slides.pdf
 
 Resources studied / Reading Material
@@ -78,10 +78,11 @@ https://en.wikipedia.org/wiki/Thompson%27s_construction
 Thompson's construction Step by Step
 https://medium.com/swlh/visualizing-thompsons-construction-algorithm-for-nfas-step-by-step-f92ef378581b
 
+irregular language
+https://sites.cs.ucsb.edu/~cappello/136/lectures/10nonregularlanguages/slides.pdf
 
+Pumping lemma
+https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages
 
-
-
-
-
-
+Myhill–Nerode theorem
+https://en.wikipedia.org/wiki/Myhill%E2%80%93Nerode_theorem
