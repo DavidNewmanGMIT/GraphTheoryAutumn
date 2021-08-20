@@ -1,6 +1,8 @@
 # GraphTheoryAutumn
 GraphTheory Repeat
 
+You can run the Python files using whatever program you prefer.
+
 Part 2
 1. the difference between regular expressions in infix notation and those in postfix notation.
 2. how Thompson's construction for regular expressions works.
