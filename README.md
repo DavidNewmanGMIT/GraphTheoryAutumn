@@ -3,6 +3,8 @@ GraphTheory Repeat
 
 You can run the Python files using whatever program you prefer.
 
+In current stae Python File does not run and does not do anything, I understand what to do but no how to do with using Python.
+
 Part 2
 1. the difference between regular expressions in infix notation and those in postfix notation.
 2. how Thompson's construction for regular expressions works.
